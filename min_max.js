@@ -11,8 +11,6 @@ const findMinMax = function(arr){
         }
     }
     return [smallest, largest]
-    //console.log("The smallest value is: ", smallest)
-    //console.log("The smallest value is: ", largest)
 }
 
 result = findMinMax([-10, -5, -20, -1, -30])
